@@ -14,6 +14,7 @@ public class Average {
     {
        int d=a+b+c;
        int f=d/3;
+
        System.out.println(f);
        
     }
